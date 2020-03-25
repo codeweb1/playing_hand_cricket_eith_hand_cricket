@@ -25,13 +25,6 @@ public class Playing_Hand_Cricket_Against_Computer
         int choice; // used to decide whether the game needs to be ended or restarted;
         int infinity=1; // used to keep the game running until the player decides to end the game;
        
-        /* After referring to all the comments mentioned above,
-         * you must be able to understand the working of this program as it is very easy.
-         * If you find it complicated,
-         * feel free to visit www.theadarshmehta.in
-         * and contact The Adarsh Mehta.
-         * Have fun!
-         */
        
         while(infinity>0)
         {
